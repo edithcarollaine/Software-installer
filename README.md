@@ -55,7 +55,7 @@ There are **two ways** to use this tool:
 3. Run the script in terminal/cmd:
 
 ```bash
-python setup_gui.py
+python instalador.py
 ```
 
 🔹 **Option 2 — Use the Executable (Recommended)**  
