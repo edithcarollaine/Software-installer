@@ -6,6 +6,15 @@ This tool is ideal for **IT support technicians** or anyone who wants to quickly
 
 ---
 
+## 📦 Requirements
+
+- Python 3.8+ (if you want to run the original script).
+- Standard Python libraries:
+- `os`
+- `tkinter`
+
+⚠️ No extra dependencies are required.
+
 ## Features
 
 - Install multiple applications using [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/).
@@ -35,7 +44,7 @@ The following applications are available for installation:
 
 ---
 
-## How to Use
+## ▶️ How to Run
 
 There are **two ways** to use this tool:
 
