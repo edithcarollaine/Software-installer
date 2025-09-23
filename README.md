@@ -62,7 +62,7 @@ python instalador.py
 
 🔹 **Option 2 — Use the Executable (Recommended)**  
 Download the ready-to-use Windows executable:  
-👉 [Download instalador.exe](https://www.dropbox.com/scl/fi/2dreycxofsiunbj8zck0c/instalador.exe?rlkey=uwqae1gqmd4b4w966z82v3w86&st=w6v9lqib&dl=0)
+👉 [Download instalador.exe](https://www.dropbox.com/scl/fi/97pd670776rn7olf6bcap/instalador.exe?rlkey=ugq2nf2l6h969o4fsgufdla6a&st=scr1r3xe&dl=0)
 
 After downloading, simply **double-click on `instalador.exe`** to open the interface.
 
