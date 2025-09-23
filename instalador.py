@@ -14,7 +14,9 @@ software_options = {
     "Git": "Git.Git",
     "Python 3.12": "Python.Python.3.12",
     "Steam": "Valve.Steam",
-    "Microsoft Teams": "Microsoft.Teams"
+    "Microsoft Teams": "Microsoft.Teams",
+    "RustDesk": "RustDesk.RustDesk",
+    "Office 365": "Microsoft.Office"
 }
 
 # Caminho base para pastas padrão
