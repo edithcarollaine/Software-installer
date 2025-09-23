@@ -39,6 +39,8 @@ The following applications are available for installation:
 | Notepad++       | `Notepad++`          |
 | Git             | `Git.Git`            |
 | Python 3.12     | `Python.Python.3.12` |
+| RustDesk        | `RustDesk.RustDesk`  |
+| Office 365      | `Microsoft.Office`   |
 
 > Note: The list of available applications can be updated directly in the script.
 
